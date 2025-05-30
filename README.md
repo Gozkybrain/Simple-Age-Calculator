@@ -1,4 +1,4 @@
-# Age Calculator
+# Simple Age Calculator
 
 A simple age calculator that calculates the difference between a given birthdate and the current date.
 
