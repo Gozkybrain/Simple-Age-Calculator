@@ -20,7 +20,7 @@ HTML for structure.
 CSS for styling.  
 JavaScript for calculations and interactivity.  
 
-## Contribute
+## Contributions
 
 Feel free to fork the repository and make changes. Pull requests are welcome.
 
